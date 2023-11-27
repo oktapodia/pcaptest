@@ -17,5 +17,3 @@ Exported with `./scripts/udp_receiver.py -p 1234 | wireshark -k -i -` and `save 
 ```
 node local.js
 ```
-node offline.js
-```
