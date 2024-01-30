@@ -76,10 +76,10 @@ needle@^3.0.0:
     iconv-lite "^0.6.3"
     sax "^1.2.4"
 
-network@^0.6.1:
-  version "0.6.1"
-  resolved "https://registry.npmjs.org/network/-/network-0.6.1.tgz#cfb0a36d2c3147e67210c3e1c6eb529f4dc570d6"
-  integrity sha512-a5vz0jz2X9kyt3no3zS5Fn7y6o1xylx4o0NxTgbp+qJK4EAwFrLQNJLdg7Gon9T9U4hWI0v8L/kW8R6zoHubWA==
+network@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/network/-/network-0.7.0.tgz#beb801e34448a4cec5f5b5857d20f1593328fb8e"
+  integrity sha512-AquYHEZFrPi1WPaMg+21iTKN7aMERP70frgK41lbTt/9tTQcwgaOtlqHRmVbxJjWYWJy033jUbA8xXhFArXodw==
   dependencies:
     async "^1.5.2"
     commander "2.9.0"
